@@ -106,6 +106,7 @@ Binary exploitation (pwn) is about finding and using memory bugs to run code or 
 ---
 
 **WRAVEN Reminder:** Pwning is puzzle-solving with low-level hacks. Patience and incremental steps win.
+
 **Repo:** [github.com/WRAVENproject/field-ops-docs](https://github.com/WRAVENproject/field-ops-docs)
 
 ---
