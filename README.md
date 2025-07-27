@@ -25,7 +25,7 @@ cd field-ops-docs && git pull
 ```
 
 
-⸻
+---
 
 ### ✍️ Contributing
 
