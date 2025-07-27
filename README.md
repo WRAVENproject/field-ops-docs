@@ -16,9 +16,11 @@ Want to pull manually?
 
 ```bash
 git clone https://github.com/WRAVENproject/field-ops-docs.git
+```
 
 Or update your local copy:
 
+```bash
 cd field-ops-docs && git pull
 ```
 
