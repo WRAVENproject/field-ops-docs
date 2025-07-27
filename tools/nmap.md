@@ -162,3 +162,5 @@ nmap -sS -Pn -T4 -A -p- -oA fullscan 192.168.1.0/24
 **WRAVEN Reminder:** Tools don’t hack, humans do. Nmap is your recon scalpel—learn where to cut, not just how.
 
 **Repo:** [github.com/WRAVENproject/field-ops-docs](https://github.com/WRAVENproject/field-ops-docs)
+
+**Made for the field. Built by WRAVEN.**
