@@ -1,6 +1,5 @@
 # WRAVEN Field Ops Docs
 
-**Docs for the field. No fluff. Just what you need.**  
 This repo contains open-source cheat sheets, references, and tools maintained by the WRAVEN threat research team.
 
 Every file here is synced directly to members’ Kali instances for fast, offline access during ops, CTFs, and research. If it’s in here, it’s because someone actually used it.
