@@ -99,7 +99,6 @@ Binary exploitation (pwn) is about finding and using memory bugs to run code or 
 | Protostar      | [https://exploit.education/protostar](https://exploit.education/protostar) |
 | pwnable.kr     | [http://pwnable.kr/](http://pwnable.kr/)                                   |
 | pwnable.tw     | [https://pwnable.tw/](https://pwnable.tw/)                                 |
-| CTF Wiki (Pwn) | [https://ctf-wiki.github.io/](https://ctf-wiki.github.io/)                 |
 | pwntools docs  | [https://docs.pwntools.com/](https://docs.pwntools.com/)                   |
 
 > 💡 **Pro Tip:** Solve one challenge per resource weekly to build muscle memory.
