@@ -5,6 +5,9 @@
 
 > Open-Source Intelligence (OSINT) is gathering info from public sources. This sheet covers methods, tools, tips, and workflows to make you an OSINT ninja—great for CTFs, investigations, and recon.
 
+Check out: https://bellingcat.gitbook.io/toolkit
+
+
 ---
 
 ## 🔎 OSINT Basics
